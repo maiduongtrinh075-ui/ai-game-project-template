@@ -2,6 +2,8 @@
 
 This is a stack-agnostic template for building games with AI in a modular, iterative way.
 
+[中文使用说明](docs/guide.zh-CN.md)
+
 Use this template when you want to:
 - grow one gameplay system at a time
 - keep AI edits contained
