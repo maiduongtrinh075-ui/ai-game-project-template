@@ -1,0 +1,13 @@
+{
+  "project": {
+    "entry": "CLAUDE.md",
+    "focus": "modular game development",
+    "defaultWorkflow": "expand one module at a time"
+  },
+  "rules": {
+    "preferSmallChanges": true,
+    "preservePublicInterfaces": true,
+    "avoidSaveSchemaChangesByDefault": true,
+    "updateDocsAfterBehaviorChanges": true
+  }
+}
